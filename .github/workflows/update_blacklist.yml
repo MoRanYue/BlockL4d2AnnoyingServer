@@ -1,6 +1,7 @@
 name: Update Blacklist
 
 on:
+  workflow_dispatch:
   push:
     branches: [ main ]
   pull_request:
@@ -13,8 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Python 3.11
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
           
@@ -26,6 +30,16 @@ jobs:
       - name: Update Backlist
         run: |
           python3 ./block_annoying_server.py
+
+      - name: Commit And Push
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: |
+            - blocked_servers_details.json
+            - ipblacklist.txt
+          message: "Automatically update blacklist"
+          author_name: github-actions[bot]
+          author_email: actions[bot]@users.noreply.github.com
           
     env:
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
