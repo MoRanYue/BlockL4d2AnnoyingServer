@@ -1,0 +1,4361 @@
+{
+    "timestamp": 1734171751,
+    "game": "Left 4 Dead 2",
+    "tag": "RPG",
+    "servers": [
+        {
+            "name": "myGaming Coop RPG [Under Construction] [Maps: tinyurl.com/rpgmg",
+            "steamid": "90216293099096080",
+            "addr": "168.119.123.55:27016",
+            "tags": "versus,empty,karma,secure",
+            "os": "l"
+        },
+        {
+            "name": "SkyRPG europe or something",
+            "steamid": "90209005774771212",
+            "addr": "94.130.131.50:25692",
+            "tags": "coop,empty,confogl,gravity,increased_maxplayers,secure",
+            "os": "l"
+        },
+        {
+            "name": "!skyrpg EXPERT+ | 100 Tick",
+            "steamid": "90215267195771926",
+            "addr": "192.223.24.225:27015",
+            "tags": "coop,empty,skyrpg,secure",
+            "os": "l"
+        },
+        {
+            "name": "StixsworldHD's !skyrpg | Dynamic Hordes",
+            "steamid": "90216223484810241",
+            "addr": "74.91.123.28:27015",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "StixsworldHD4k's RPG Mode v1.0.7",
+            "steamid": "90209556762319876",
+            "addr": "192.169.95.147:54501",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "【FD ʚïɞ Team】 Săn Boss RPG VN",
+            "steamid": "90216328214754325",
+            "addr": "115.72.177.252:27018",
+            "tags": "realism,increased_maxplayers,no-steam,vn,secure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#紫禁之巅#RPG房",
+            "steamid": "90216224068655127",
+            "addr": "8.137.33.22:27022",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#紫禁之巅#RPG房",
+            "steamid": "90216224071572503",
+            "addr": "8.137.33.22:27021",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#穷途末路#RPG房",
+            "steamid": "90216317187833879",
+            "addr": "8.137.33.22:27016",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#穷途末路#RPG房",
+            "steamid": "90216432453582871",
+            "addr": "8.137.33.22:27015",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#紫禁之巅#RPG房",
+            "steamid": "90216337672525847",
+            "addr": "8.137.33.22:27020",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#穷途末路#RPG房",
+            "steamid": "90216432455568407",
+            "addr": "8.137.33.22:27017",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【杀戮时刻】",
+            "steamid": "90213915567726615",
+            "addr": "43.139.218.135:27026",
+            "tags": "coop,empty,hidden,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG新手服#1",
+            "steamid": "90208278421682177",
+            "addr": "43.139.15.136:27015",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "﻿弑狗巅峰",
+            "steamid": "90215856313453575",
+            "addr": "113.45.185.26:27015",
+            "tags": "coop,empty,hidden,secure",
+            "os": "w"
+        },
+        {
+            "name": "3#-众神传说",
+            "steamid": "90215179117258772",
+            "addr": "43.139.11.22:27003",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "23#-众神传说",
+            "steamid": "90215254271203352",
+            "addr": "106.55.16.95:27023",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "2#-众神传说",
+            "steamid": "90215261272507412",
+            "addr": "43.139.11.22:27002",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "24#-众神传说",
+            "steamid": "90216283813792792",
+            "addr": "106.55.16.95:27024",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "6#-众神传说",
+            "steamid": "90216175753069588",
+            "addr": "43.139.11.22:27006",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "21#-众神传说",
+            "steamid": "90216154253955096",
+            "addr": "106.55.16.95:27021",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "#无法逃脱#RPG",
+            "steamid": "90216432592283673",
+            "addr": "114.132.166.178:27020",
+            "tags": "coop,empty,increased_maxplayers,insecure",
+            "os": "w"
+        },
+        {
+            "name": "22#-众神传说",
+            "steamid": "90215256538246168",
+            "addr": "106.55.16.95:27022",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "28#-众神传说",
+            "steamid": "90215259487190040",
+            "addr": "106.55.16.95:27028",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "[纵横天下]魔改娱乐服",
+            "steamid": "90216392773935126",
+            "addr": "8.134.95.140:35274",
+            "tags": "coop,empty,secure",
+            "os": "l"
+        },
+        {
+            "name": "29#-众神传说",
+            "steamid": "90215256539413528",
+            "addr": "106.55.16.95:27029",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "4#-众神传说",
+            "steamid": "90213925887521812",
+            "addr": "43.139.11.22:27004",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "9#-众神传说",
+            "steamid": "90216246781872148",
+            "addr": "43.139.11.22:27009",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "10#-众神传说",
+            "steamid": "90213920551788564",
+            "addr": "43.139.11.22:27010",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "30#-众神传说",
+            "steamid": "90215252607831064",
+            "addr": "106.55.16.95:27030",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "7#-众神传说",
+            "steamid": "90213919692141588",
+            "addr": "43.139.11.22:27007",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "26#-众神传说",
+            "steamid": "90215198375120920",
+            "addr": "106.55.16.95:27026",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "8#-众神传说",
+            "steamid": "90215258904755220",
+            "addr": "43.139.11.22:27008",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "5#-众神传说",
+            "steamid": "90215258713606164",
+            "addr": "43.139.11.22:27005",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "#无法逃脱#RPG",
+            "steamid": "90216432592479257",
+            "addr": "114.132.166.178:27025",
+            "tags": "coop,empty,increased_maxplayers,insecure",
+            "os": "w"
+        },
+        {
+            "name": "25#-众神传说",
+            "steamid": "90215256046868504",
+            "addr": "106.55.16.95:27025",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "1#-众神传说",
+            "steamid": "90215399227851796",
+            "addr": "43.139.11.22:27001",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "27#-众神传说",
+            "steamid": "90216130635951128",
+            "addr": "106.55.16.95:27027",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "L4D2cn Public RPG Server",
+            "steamid": "90213796089474048",
+            "addr": "121.62.23.8:29011",
+            "tags": "coop,secure",
+            "os": "w"
+        },
+        {
+            "name": "L4D2cn Public RPG Server",
+            "steamid": "90216138552525824",
+            "addr": "121.62.23.8:29010",
+            "tags": "coop,secure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X11橡子杀戮新手服",
+            "steamid": "90209567463599126",
+            "addr": "120.79.5.148:27255",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X8橡子杀戮经典服",
+            "steamid": "90209423281131542",
+            "addr": "120.79.5.148:27251",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X4橡子杀戮菜鸟服",
+            "steamid": "90209434140142614",
+            "addr": "120.79.5.148:27248",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X5橡子杀戮菜鸟服",
+            "steamid": "90209564719931414",
+            "addr": "120.79.5.148:27249",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【穷途末路】无限火力",
+            "steamid": "90207739598600207",
+            "addr": "119.23.217.74:27015",
+            "tags": "coop,empty,secure",
+            "os": "l"
+        },
+        {
+            "name": "﻿X9橡子杀戮经典服",
+            "steamid": "90209497045472278",
+            "addr": "120.79.5.148:27254",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X19橡子杀戮经典服",
+            "steamid": "90209566256837654",
+            "addr": "120.79.5.148:27263",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X1橡子杀戮新手服",
+            "steamid": "90204176286785558",
+            "addr": "120.79.5.148:27246",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X20橡子杀戮经典服",
+            "steamid": "90209563452746774",
+            "addr": "120.79.5.148:27264",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X15橡子杀戮菜鸟服",
+            "steamid": "90209564844700694",
+            "addr": "120.79.5.148:27259",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X7橡子杀戮菜鸟服",
+            "steamid": "90209564518109206",
+            "addr": "120.79.5.148:27252",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X6橡子杀戮菜鸟服",
+            "steamid": "90209430870269974",
+            "addr": "120.79.5.148:27250",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X14橡子杀戮菜鸟服",
+            "steamid": "90209556480744470",
+            "addr": "120.79.5.148:27258",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X12橡子杀戮新手服",
+            "steamid": "90209495936205846",
+            "addr": "120.79.5.148:27256",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X18橡子杀戮经典服",
+            "steamid": "90209492581258262",
+            "addr": "120.79.5.148:27262",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X10橡子杀戮经典服",
+            "steamid": "90209564516779030",
+            "addr": "120.79.5.148:27253",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X3橡子杀戮新手服",
+            "steamid": "90208982011368470",
+            "addr": "120.79.5.148:27247",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X1橡子杀戮新手服",
+            "steamid": "90209566073862166",
+            "addr": "120.79.5.148:27245",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X17橡子杀戮菜鸟服",
+            "steamid": "90209567465234454",
+            "addr": "120.79.5.148:27261",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X13橡子杀戮新手服",
+            "steamid": "90209567464016918",
+            "addr": "120.79.5.148:27257",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿X16橡子杀戮菜鸟服",
+            "steamid": "90209566502257686",
+            "addr": "120.79.5.148:27260",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T52幻想杀戮新手服",
+            "steamid": "90215260125804546",
+            "addr": "120.79.5.0:40056",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T32幻想杀戮新手服",
+            "steamid": "90215260100242457",
+            "addr": "120.24.206.219:37856",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿17#杀戮高手三方服",
+            "steamid": "90216383651683349",
+            "addr": "120.78.174.64:37961",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#83杀戮世界新手服",
+            "steamid": "90216080346346522",
+            "addr": "119.23.51.163:38157",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿37#杀戮世界经典服",
+            "steamid": "90215981953678361",
+            "addr": "120.24.206.219:37851",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T2幻想杀戮菜鸟服",
+            "steamid": "90216462804663305",
+            "addr": "120.24.67.55:27246",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#80杀戮世界经典服",
+            "steamid": "90216406540350490",
+            "addr": "119.23.51.163:38154",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿7#杀戮世界菜鸟服",
+            "steamid": "90216282086637589",
+            "addr": "120.78.174.64:37951",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T27幻想杀戮经典服",
+            "steamid": "90215253321851925",
+            "addr": "120.79.41.192:37861",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T31幻想杀戮新手服",
+            "steamid": "90215260309747737",
+            "addr": "120.24.206.219:37855",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#71杀戮世界新手服",
+            "steamid": "90216328216779797",
+            "addr": "120.79.41.192:37845",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#53杀戮世界新手服",
+            "steamid": "90216407213719556",
+            "addr": "120.77.24.39:38147",
+            "tags": "survival,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿93#杀戮世界新手服",
+            "steamid": "90216333275829268",
+            "addr": "120.77.206.2:27257",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#63杀戮世界新手服",
+            "steamid": "90216108503449604",
+            "addr": "120.77.24.39:38157",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#85杀戮世界菜鸟服",
+            "steamid": "90216080348049434",
+            "addr": "119.23.51.163:38159",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T28幻想杀戮高手服",
+            "steamid": "90216466778185749",
+            "addr": "120.79.41.192:37862",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#51幻想杀戮经典服",
+            "steamid": "90215398743030786",
+            "addr": "120.79.5.0:40055",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿23#杀戮世界新手服",
+            "steamid": "90216466777888789",
+            "addr": "120.79.41.192:37847",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿100#杀戮世界经典服",
+            "steamid": "90216112614818836",
+            "addr": "120.77.206.2:27264",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T35幻想杀戮新手服",
+            "steamid": "90216452463086617",
+            "addr": "120.24.206.219:37859",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿11#杀戮世界经典服",
+            "steamid": "90216449392931861",
+            "addr": "120.78.174.64:37955",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿29#杀戮世界经典服",
+            "steamid": "90216466776810517",
+            "addr": "120.79.41.192:37853",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿12#幻想杀戮经典服",
+            "steamid": "90216444820722697",
+            "addr": "120.24.67.55:27256",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿30#杀戮世界经典服",
+            "steamid": "90216466779133973",
+            "addr": "120.79.41.192:37854",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿25#杀戮世界菜鸟服",
+            "steamid": "90216466778119189",
+            "addr": "120.79.41.192:37849",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#54杀戮世界菜鸟服",
+            "steamid": "90216473560817668",
+            "addr": "120.77.24.39:38148",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿16#杀戮世界高手服",
+            "steamid": "90216449391636501",
+            "addr": "120.78.174.64:37960",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#88杀戮世界经典服",
+            "steamid": "90216192294885402",
+            "addr": "119.23.51.163:38162",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿91#杀戮世界新手服",
+            "steamid": "90216112609910804",
+            "addr": "120.77.206.2:27255",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T42幻想杀戮新手服",
+            "steamid": "90216037390482434",
+            "addr": "120.79.5.0:40046",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿99#杀戮世界经典服",
+            "steamid": "90216297955178516",
+            "addr": "120.77.206.2:27263",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T41幻想杀戮新手服",
+            "steamid": "90216180472894466",
+            "addr": "120.79.5.0:40049",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿35#杀戮世界经典服",
+            "steamid": "90216471897202713",
+            "addr": "120.24.206.219:37849",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#75杀戮世界菜鸟服",
+            "steamid": "90216460459205658",
+            "addr": "119.23.51.163:38149",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿14#杀戮世界经典服",
+            "steamid": "90216383647495189",
+            "addr": "120.78.174.64:37958",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T40幻想杀戮经典服",
+            "steamid": "90215258353914905",
+            "addr": "120.24.206.219:37864",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿38#杀戮世界经典服",
+            "steamid": "90215981953844249",
+            "addr": "120.24.206.219:37852",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿96#杀戮世界菜鸟服",
+            "steamid": "90216112613145620",
+            "addr": "120.77.206.2:27260",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T26幻想杀戮经典服",
+            "steamid": "90215260195689493",
+            "addr": "120.79.41.192:37860",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T53幻想杀戮新手服",
+            "steamid": "90215258097843202",
+            "addr": "120.79.5.0:40057",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T33幻想杀戮新手服",
+            "steamid": "90216316722088985",
+            "addr": "120.24.206.219:37857",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T22幻想杀戮新手服",
+            "steamid": "90216449390535701",
+            "addr": "120.79.41.192:37856",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿5#杀戮世界新手服",
+            "steamid": "90216449390743573",
+            "addr": "120.78.174.64:37949",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T4幻想杀戮高手服",
+            "steamid": "90216462805170185",
+            "addr": "120.24.67.55:27248",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#73杀戮世界新手服",
+            "steamid": "90216447930500122",
+            "addr": "119.23.51.163:38147",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T50幻想杀戮菜鸟服",
+            "steamid": "90215261606024194",
+            "addr": "120.79.5.0:40054",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T56幻想杀戮菜鸟服",
+            "steamid": "90216239422350338",
+            "addr": "120.79.5.0:40060",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿15#杀戮世界经典服",
+            "steamid": "90216383647197205",
+            "addr": "120.78.174.64:37959",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T30幻想杀戮经典服",
+            "steamid": "90216466776900629",
+            "addr": "120.79.41.192:37864",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿18#杀戮高手三方服",
+            "steamid": "90216449390458901",
+            "addr": "120.78.174.64:37962",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T60幻想杀戮经典服",
+            "steamid": "90215707985878018",
+            "addr": "120.79.5.0:40064",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿27#杀戮世界菜鸟服",
+            "steamid": "90216466779537429",
+            "addr": "120.79.41.192:37851",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#62杀戮世界新手服",
+            "steamid": "90216026283286532",
+            "addr": "120.77.24.39:38156",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿24#杀戮世界新手服",
+            "steamid": "90215954250381333",
+            "addr": "120.79.41.192:37848",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿9#杀戮世界菜鸟服",
+            "steamid": "90215917134653461",
+            "addr": "120.78.174.64:37953",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#60杀戮世界经典服",
+            "steamid": "90216473560644612",
+            "addr": "120.77.24.39:38154",
+            "tags": "survival,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[纵横天下]抽卡专家服",
+            "steamid": "90216467809763358",
+            "addr": "47.115.213.61:41241",
+            "tags": "coop,empty,secure",
+            "os": "l"
+        },
+        {
+            "name": "﻿95#杀戮世界菜鸟服",
+            "steamid": "90216112612228116",
+            "addr": "120.77.206.2:27259",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T38幻想杀戮高手服",
+            "steamid": "90216410667023385",
+            "addr": "120.24.206.219:37862",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T10幻想杀戮新手服",
+            "steamid": "90216462807110665",
+            "addr": "120.24.67.55:27254",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿39#杀戮世界经典服",
+            "steamid": "90216176313570329",
+            "addr": "120.24.206.219:37853",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#90杀戮世界经典服",
+            "steamid": "90216098859513882",
+            "addr": "119.23.51.163:38164",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#51杀戮世界新手服",
+            "steamid": "90216473560592388",
+            "addr": "120.77.24.39:38145",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#72杀戮世界新手服",
+            "steamid": "90216433183599642",
+            "addr": "119.23.51.163:38146",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#87杀戮世界菜鸟服",
+            "steamid": "90216316153292826",
+            "addr": "119.23.51.163:38161",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿50#杀戮世界经典服",
+            "steamid": "90216467116485652",
+            "addr": "120.77.206.2:27254",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T43幻想杀戮菜鸟服",
+            "steamid": "90211099493918722",
+            "addr": "120.79.5.0:40047",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿41#杀戮世界新手服",
+            "steamid": "90216423223829524",
+            "addr": "120.77.206.2:27245",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T58幻想杀戮经典服",
+            "steamid": "90215258411227138",
+            "addr": "120.79.5.0:40062",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T34幻想杀戮新手服",
+            "steamid": "90216471897075737",
+            "addr": "120.24.206.219:37858",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#61杀戮世界经典服",
+            "steamid": "90215412797071364",
+            "addr": "120.77.24.39:38155",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#74杀戮世界菜鸟服",
+            "steamid": "90216447933424666",
+            "addr": "119.23.51.163:38148",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿33#杀戮世界新手服",
+            "steamid": "90216452464898073",
+            "addr": "120.24.206.219:37847",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T39幻想杀戮经典服",
+            "steamid": "90213914694295577",
+            "addr": "120.24.206.219:37863",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T16幻想杀戮经典服",
+            "steamid": "90216462806376457",
+            "addr": "120.24.67.55:27260",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿2#杀戮世界菜鸟服",
+            "steamid": "90216449389333525",
+            "addr": "120.78.174.64:37946",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿8#杀戮世界菜鸟服",
+            "steamid": "90216311375870997",
+            "addr": "120.78.174.64:37952",
+            "tags": "survival,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#55杀戮世界菜鸟服",
+            "steamid": "90216473559952388",
+            "addr": "120.77.24.39:38149",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#60杀戮世界经典服",
+            "steamid": "90216473559798788",
+            "addr": "120.77.24.39:38153",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿32#杀戮世界新手服",
+            "steamid": "90216452462148633",
+            "addr": "120.24.206.219:37846",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿42#杀戮世界新手服",
+            "steamid": "90216467117148180",
+            "addr": "120.77.206.2:27246",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T5幻想杀戮高手服",
+            "steamid": "90216462804722697",
+            "addr": "120.24.67.55:27249",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿19#杀戮世界刷怪服",
+            "steamid": "90215938573830165",
+            "addr": "120.78.174.64:37963",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[纵横天下]RPG正式服",
+            "steamid": "90213867373800478",
+            "addr": "47.115.213.61:35274",
+            "tags": "coop,empty,gravity,secure",
+            "os": "l"
+        },
+        {
+            "name": "﻿T18幻想杀戮经典服",
+            "steamid": "90215263358069769",
+            "addr": "120.24.67.55:27262",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T6幻想杀戮新手服",
+            "steamid": "90216444817782793",
+            "addr": "120.24.67.55:27250",
+            "tags": "versus,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[纵横天下]抽卡2服",
+            "steamid": "90216195975459870",
+            "addr": "47.115.213.61:46603",
+            "tags": "coop,empty,increased_maxplayers,secure",
+            "os": "l"
+        },
+        {
+            "name": "﻿#77杀戮世界菜鸟服",
+            "steamid": "90216054659304474",
+            "addr": "119.23.51.163:38151",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T44幻想杀戮菜鸟服",
+            "steamid": "90215260285688834",
+            "addr": "120.79.5.0:40048",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#81杀戮世界经典服",
+            "steamid": "90216316152599578",
+            "addr": "119.23.51.163:38155",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿26#杀戮世界菜鸟服",
+            "steamid": "90216466777596949",
+            "addr": "120.79.41.192:37850",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#86杀戮世界菜鸟服",
+            "steamid": "90216387122531354",
+            "addr": "119.23.51.163:38160",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿47#杀戮世界菜鸟服",
+            "steamid": "90216467113627668",
+            "addr": "120.77.206.2:27251",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T54幻想杀戮新手服",
+            "steamid": "90213790340828162",
+            "addr": "120.79.5.0:40058",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T55幻想杀戮菜鸟服",
+            "steamid": "90215260285854722",
+            "addr": "120.79.5.0:40059",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿44#杀戮世界菜鸟服",
+            "steamid": "90216401260126228",
+            "addr": "120.77.206.2:27248",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#82杀戮世界新手服",
+            "steamid": "90216080345586714",
+            "addr": "119.23.51.163:38156",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T25幻想杀戮新手服",
+            "steamid": "90213790366537749",
+            "addr": "120.79.41.192:37859",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#66杀戮世界菜鸟服",
+            "steamid": "90216026285412356",
+            "addr": "120.77.24.39:38160",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#57杀戮世界菜鸟服",
+            "steamid": "90216007654433796",
+            "addr": "120.77.24.39:38151",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T46幻想杀戮经典服",
+            "steamid": "90215260285877250",
+            "addr": "120.79.5.0:40050",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T8幻想杀戮新手服",
+            "steamid": "90216444818447369",
+            "addr": "120.24.67.55:27252",
+            "tags": "versus,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿28#杀戮世界经典服",
+            "steamid": "90216345764384789",
+            "addr": "120.79.41.192:37852",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T41幻想杀戮新手服",
+            "steamid": "90213791808801794",
+            "addr": "120.79.5.0:40045",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T36幻想杀戮经典服",
+            "steamid": "90216452463435801",
+            "addr": "120.24.206.219:37860",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿40#杀戮世界经典服",
+            "steamid": "90215981955725337",
+            "addr": "120.24.206.219:37854",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿92#杀戮世界新手服",
+            "steamid": "90216112610607124",
+            "addr": "120.77.206.2:27256",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#84杀戮世界菜鸟服",
+            "steamid": "90216276549067802",
+            "addr": "119.23.51.163:38158",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T17幻想杀戮经典服",
+            "steamid": "90216462807350281",
+            "addr": "120.24.67.55:27261",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T29幻想杀戮经典服",
+            "steamid": "90216466778927125",
+            "addr": "120.79.41.192:37863",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#70杀戮世界经典服",
+            "steamid": "90216311896990724",
+            "addr": "120.77.24.39:38164",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#78杀戮世界经典服",
+            "steamid": "90216418219684890",
+            "addr": "119.23.51.163:38152",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T48幻想杀戮新手服",
+            "steamid": "90216316395142146",
+            "addr": "120.79.5.0:40052",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿10#杀戮世界三方服",
+            "steamid": "90216172401698837",
+            "addr": "120.78.174.64:37954",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#69杀戮世界经典服",
+            "steamid": "90216192474413060",
+            "addr": "120.77.24.39:38163",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#79杀戮世界经典服",
+            "steamid": "90216054660661274",
+            "addr": "119.23.51.163:38153",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿98#杀戮世界经典服",
+            "steamid": "90215824882662420",
+            "addr": "120.77.206.2:27262",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿4#杀戮世界新手服",
+            "steamid": "90216466776154133",
+            "addr": "120.78.174.64:37948",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T23幻想杀戮新手服",
+            "steamid": "90215261058770965",
+            "addr": "120.79.41.192:37857",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T57幻想杀戮经典服",
+            "steamid": "90215260125848578",
+            "addr": "120.79.5.0:40061",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T49幻想杀戮菜鸟服",
+            "steamid": "90215260285520898",
+            "addr": "120.79.5.0:40053",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#67杀戮世界菜鸟服",
+            "steamid": "90216383522985988",
+            "addr": "120.77.24.39:38161",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T20幻想杀戮挂机服",
+            "steamid": "90216424670685193",
+            "addr": "120.24.67.55:27264",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿49#杀戮世界经典服",
+            "steamid": "90216467115618324",
+            "addr": "120.77.206.2:27253",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿13#杀戮世界经典服",
+            "steamid": "90216431350991893",
+            "addr": "120.78.174.64:37957",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿6#杀戮世界新手服",
+            "steamid": "90216466776785941",
+            "addr": "120.78.174.64:37950",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿20#杀戮世界挂机服",
+            "steamid": "90215839946778645",
+            "addr": "120.78.174.64:37964",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿97#杀戮世界菜鸟服",
+            "steamid": "90216112613819412",
+            "addr": "120.77.206.2:27261",
+            "tags": "survival,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T59幻想杀戮经典服",
+            "steamid": "90215260285784066",
+            "addr": "120.79.5.0:40063",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#76杀戮世界菜鸟服",
+            "steamid": "90216054658585626",
+            "addr": "119.23.51.163:38150",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿43#杀戮世界新手服",
+            "steamid": "90216467116696596",
+            "addr": "120.77.206.2:27247",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T47幻想杀戮新手服",
+            "steamid": "90215260285793282",
+            "addr": "120.79.5.0:40051",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿1#杀戮世界新手服",
+            "steamid": "90216466779201557",
+            "addr": "120.78.174.64:37945",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#68杀戮世界经典服",
+            "steamid": "90216458587602948",
+            "addr": "120.77.24.39:38162",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿22#杀戮世界新手服",
+            "steamid": "90216030320407573",
+            "addr": "120.79.41.192:37846",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿48#杀戮世界经典服",
+            "steamid": "90216351398664212",
+            "addr": "120.77.206.2:27252",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T3幻想杀戮经典服",
+            "steamid": "90216462806133769",
+            "addr": "120.24.67.55:27247",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#89杀戮世界经典服",
+            "steamid": "90216478015786010",
+            "addr": "119.23.51.163:38163",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿46#杀戮世界菜鸟服",
+            "steamid": "90216467117253652",
+            "addr": "120.77.206.2:27250",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿34#杀戮世界新手服",
+            "steamid": "90216452465088537",
+            "addr": "120.24.206.219:37848",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T9幻想杀戮新手服",
+            "steamid": "90216462803710985",
+            "addr": "120.24.67.55:27253",
+            "tags": "versus,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿12#杀戮世界经典服",
+            "steamid": "90216365197204501",
+            "addr": "120.78.174.64:37956",
+            "tags": "survival,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T24幻想杀戮新手服",
+            "steamid": "90216466777636885",
+            "addr": "120.79.41.192:37858",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿94#杀戮世界菜鸟服",
+            "steamid": "90216351397352468",
+            "addr": "120.77.206.2:27258",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T7幻想杀戮新手服",
+            "steamid": "90216444817749001",
+            "addr": "120.24.67.55:27251",
+            "tags": "versus,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿45#杀戮世界菜鸟服",
+            "steamid": "90216467115393044",
+            "addr": "120.77.206.2:27249",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿#56杀戮世界菜鸟服",
+            "steamid": "90216473561322500",
+            "addr": "120.77.24.39:38150",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T13幻想杀戮经典服",
+            "steamid": "90216462806449161",
+            "addr": "120.24.67.55:27257",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T1幻想杀戮新手服",
+            "steamid": "90216462805044233",
+            "addr": "120.24.67.55:27245",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T14幻想杀戮经典服",
+            "steamid": "90216462806643721",
+            "addr": "120.24.67.55:27258",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T21幻想杀戮新手服",
+            "steamid": "90216466777626645",
+            "addr": "120.79.41.192:37855",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿T37幻想杀戮经典服",
+            "steamid": "90216471896998937",
+            "addr": "120.24.206.219:37861",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿31#杀戮世界新手服",
+            "steamid": "90216471897724953",
+            "addr": "120.24.206.219:37845",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿36#杀戮世界经典服",
+            "steamid": "90216471897895961",
+            "addr": "120.24.206.219:37850",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#1",
+            "steamid": "90216268720089106",
+            "addr": "58.153.169.57:27015",
+            "tags": "coop,empty,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#2",
+            "steamid": "90216333268213778",
+            "addr": "58.153.169.57:27016",
+            "tags": "coop,empty,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#7",
+            "steamid": "90216389503935506",
+            "addr": "58.153.169.57:27021",
+            "tags": "coop,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#6",
+            "steamid": "90216165113630738",
+            "addr": "58.153.169.57:27020",
+            "tags": "coop,empty,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#4",
+            "steamid": "90216120813692946",
+            "addr": "58.153.169.57:27018",
+            "tags": "coop,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#3",
+            "steamid": "90216333271262226",
+            "addr": "58.153.169.57:27017",
+            "tags": "coop,empty,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#8",
+            "steamid": "90216208568994834",
+            "addr": "58.153.169.57:27022",
+            "tags": "coop,empty,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿暗黑之魂[RPG]#5",
+            "steamid": "90216225799454738",
+            "addr": "58.153.169.57:27019",
+            "tags": "coop,empty,gravity,insecure",
+            "os": "w"
+        },
+        {
+            "name": "10#[白色]神之右手",
+            "steamid": "90216000521097247",
+            "addr": "116.211.145.63:27220",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "10#[白色]上帝之手",
+            "steamid": "90215977934909471",
+            "addr": "116.211.145.63:27110",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "9#[白色]上帝之手",
+            "steamid": "90215270348346399",
+            "addr": "116.211.145.63:27109",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "1#[白色]上帝之手",
+            "steamid": "90215270348321823",
+            "addr": "116.211.145.63:27101",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "2#[白色]上帝之手",
+            "steamid": "90215270348327967",
+            "addr": "116.211.145.63:27102",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "3#[白色]上帝之手",
+            "steamid": "90215270348331039",
+            "addr": "116.211.145.63:27103",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "5#[白色]上帝之手",
+            "steamid": "90215270348333087",
+            "addr": "116.211.145.63:27105",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "7#[白色]上帝之手",
+            "steamid": "90215270348345375",
+            "addr": "116.211.145.63:27107",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "8#[白色]上帝之手",
+            "steamid": "90215270348349471",
+            "addr": "116.211.145.63:27108",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "8#[白色]神之右手",
+            "steamid": "90216284781758495",
+            "addr": "116.211.145.63:27218",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "4#[白色]上帝之手",
+            "steamid": "90216034281669663",
+            "addr": "116.211.145.63:27104",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "7#[白色]神之右手",
+            "steamid": "90216191698839583",
+            "addr": "116.211.145.63:27217",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "9#[白色]神之右手",
+            "steamid": "90216339390244895",
+            "addr": "116.211.145.63:27219",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "6#[白色]上帝之手",
+            "steamid": "90216403877506079",
+            "addr": "116.211.145.63:27106",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "4#[白色]神之右手",
+            "steamid": "90215667506195487",
+            "addr": "116.211.145.63:27214",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "6#[白色]神之右手",
+            "steamid": "90216072173096991",
+            "addr": "116.211.145.63:27216",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "3#[白色]神之右手",
+            "steamid": "90216072175046687",
+            "addr": "116.211.145.63:27213",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "1#[白色]神之右手",
+            "steamid": "90215270348350495",
+            "addr": "116.211.145.63:27211",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "2#[白色]神之右手",
+            "steamid": "90216172244808735",
+            "addr": "116.211.145.63:27212",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "5#[白色]神之右手",
+            "steamid": "90216092027755551",
+            "addr": "116.211.145.63:27215",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "HTの一念仙行#37",
+            "steamid": "90216285623199766",
+            "addr": "150.138.84.81:3037",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#13",
+            "steamid": "90216477794228246",
+            "addr": "150.138.84.81:3013",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#22",
+            "steamid": "90216439624072214",
+            "addr": "150.138.84.81:3022",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#3",
+            "steamid": "90216392772891670",
+            "addr": "150.138.84.81:3003",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#4",
+            "steamid": "90216439623698454",
+            "addr": "150.138.84.81:3004",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#6",
+            "steamid": "90216439623729174",
+            "addr": "150.138.84.81:3006",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#1",
+            "steamid": "90216439623803926",
+            "addr": "150.138.84.81:3001",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#2",
+            "steamid": "90216439623822358",
+            "addr": "150.138.84.81:3002",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#5",
+            "steamid": "90216439623847958",
+            "addr": "150.138.84.81:3005",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#7",
+            "steamid": "90216439623873558",
+            "addr": "150.138.84.81:3007",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#8",
+            "steamid": "90216439623890966",
+            "addr": "150.138.84.81:3008",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#9",
+            "steamid": "90216439623910422",
+            "addr": "150.138.84.81:3009",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#10",
+            "steamid": "90216460361632790",
+            "addr": "150.138.84.81:3010",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#12",
+            "steamid": "90216439623926806",
+            "addr": "150.138.84.81:3012",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#14",
+            "steamid": "90216439623955478",
+            "addr": "150.138.84.81:3014",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#15",
+            "steamid": "90216439623976982",
+            "addr": "150.138.84.81:3015",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#17",
+            "steamid": "90216439624001558",
+            "addr": "150.138.84.81:3017",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#16",
+            "steamid": "90216439624003606",
+            "addr": "150.138.84.81:3016",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#18",
+            "steamid": "90216439624019990",
+            "addr": "150.138.84.81:3018",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#19",
+            "steamid": "90216439624026134",
+            "addr": "150.138.84.81:3019",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#20",
+            "steamid": "90216439624048662",
+            "addr": "150.138.84.81:3020",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#21",
+            "steamid": "90216439624062998",
+            "addr": "150.138.84.81:3021",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#43",
+            "steamid": "90216460363347990",
+            "addr": "150.138.84.81:3043",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#23",
+            "steamid": "90216439624077334",
+            "addr": "150.138.84.81:3023",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#24",
+            "steamid": "90216439624087574",
+            "addr": "150.138.84.81:3024",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#25",
+            "steamid": "90216439624104982",
+            "addr": "150.138.84.81:3025",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#26",
+            "steamid": "90216439624114198",
+            "addr": "150.138.84.81:3026",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#27",
+            "steamid": "90216439624124438",
+            "addr": "150.138.84.81:3027",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#28",
+            "steamid": "90216460360147990",
+            "addr": "150.138.84.81:3028",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#29",
+            "steamid": "90216460360156182",
+            "addr": "150.138.84.81:3029",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#30",
+            "steamid": "90216460360167446",
+            "addr": "150.138.84.81:3030",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#31",
+            "steamid": "90216460360180758",
+            "addr": "150.138.84.81:3031",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#32",
+            "steamid": "90216460360196118",
+            "addr": "150.138.84.81:3032",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#33",
+            "steamid": "90216460360212502",
+            "addr": "150.138.84.81:3033",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#34",
+            "steamid": "90216460360232982",
+            "addr": "150.138.84.81:3034",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#35",
+            "steamid": "90216460360238102",
+            "addr": "150.138.84.81:3035",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#36",
+            "steamid": "90216460360257558",
+            "addr": "150.138.84.81:3036",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#38",
+            "steamid": "90216460360271894",
+            "addr": "150.138.84.81:3038",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#39",
+            "steamid": "90216460360287254",
+            "addr": "150.138.84.81:3039",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#40",
+            "steamid": "90216460360306710",
+            "addr": "150.138.84.81:3040",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#41",
+            "steamid": "90216460360318998",
+            "addr": "150.138.84.81:3041",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#42",
+            "steamid": "90216460360332310",
+            "addr": "150.138.84.81:3042",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#44",
+            "steamid": "90216460360364054",
+            "addr": "150.138.84.81:3044",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#45",
+            "steamid": "90216460360368150",
+            "addr": "150.138.84.81:3045",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#46",
+            "steamid": "90216460360386582",
+            "addr": "150.138.84.81:3046",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#47",
+            "steamid": "90216460360396822",
+            "addr": "150.138.84.81:3047",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#48",
+            "steamid": "90216460360409110",
+            "addr": "150.138.84.81:3048",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#49",
+            "steamid": "90216460360428566",
+            "addr": "150.138.84.81:3049",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#50",
+            "steamid": "90216460360442902",
+            "addr": "150.138.84.81:3050",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#51",
+            "steamid": "90216460360449046",
+            "addr": "150.138.84.81:3051",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#52",
+            "steamid": "90216460360461334",
+            "addr": "150.138.84.81:3052",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#53",
+            "steamid": "90216460360464406",
+            "addr": "150.138.84.81:3053",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#54",
+            "steamid": "90216460360475670",
+            "addr": "150.138.84.81:3054",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#56",
+            "steamid": "90216460360501270",
+            "addr": "150.138.84.81:3056",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#58",
+            "steamid": "90216460360522774",
+            "addr": "150.138.84.81:3058",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#59",
+            "steamid": "90216460360531990",
+            "addr": "150.138.84.81:3059",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#60",
+            "steamid": "90216460360545302",
+            "addr": "150.138.84.81:3060",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#61",
+            "steamid": "90216460360563734",
+            "addr": "150.138.84.81:3061",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#62",
+            "steamid": "90216460360578070",
+            "addr": "150.138.84.81:3062",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#63",
+            "steamid": "90216460360588310",
+            "addr": "150.138.84.81:3063",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#64",
+            "steamid": "90216460360605718",
+            "addr": "150.138.84.81:3064",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#55",
+            "steamid": "90216460360611862",
+            "addr": "150.138.84.81:3055",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#65",
+            "steamid": "90216460360614934",
+            "addr": "150.138.84.81:3065",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#66",
+            "steamid": "90216460360625174",
+            "addr": "150.138.84.81:3066",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#67",
+            "steamid": "90216460360632342",
+            "addr": "150.138.84.81:3067",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#57",
+            "steamid": "90216460360633366",
+            "addr": "150.138.84.81:3057",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#68",
+            "steamid": "90216460360646678",
+            "addr": "150.138.84.81:3068",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#70",
+            "steamid": "90216460360686614",
+            "addr": "150.138.84.81:3070",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#73",
+            "steamid": "90216460360728598",
+            "addr": "150.138.84.81:3073",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#74",
+            "steamid": "90216460360750102",
+            "addr": "150.138.84.81:3074",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#75",
+            "steamid": "90216460360756246",
+            "addr": "150.138.84.81:3075",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#76",
+            "steamid": "90216460360765462",
+            "addr": "150.138.84.81:3076",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#77",
+            "steamid": "90216460360783894",
+            "addr": "150.138.84.81:3077",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#69",
+            "steamid": "90216460360794134",
+            "addr": "150.138.84.81:3069",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#90",
+            "steamid": "90216460360796182",
+            "addr": "150.138.84.81:3090",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#80",
+            "steamid": "90216460360802326",
+            "addr": "150.138.84.81:3080",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#79",
+            "steamid": "90216460360804374",
+            "addr": "150.138.84.81:3079",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#78",
+            "steamid": "90216460360807446",
+            "addr": "150.138.84.81:3078",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#81",
+            "steamid": "90216460360814614",
+            "addr": "150.138.84.81:3081",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#82",
+            "steamid": "90216460360839190",
+            "addr": "150.138.84.81:3082",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#83",
+            "steamid": "90216460360856598",
+            "addr": "150.138.84.81:3083",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#84",
+            "steamid": "90216460360860694",
+            "addr": "150.138.84.81:3084",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#85",
+            "steamid": "90216460360877078",
+            "addr": "150.138.84.81:3085",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#86",
+            "steamid": "90216460360910870",
+            "addr": "150.138.84.81:3086",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#87",
+            "steamid": "90216460360928278",
+            "addr": "150.138.84.81:3087",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#88",
+            "steamid": "90216460360954902",
+            "addr": "150.138.84.81:3088",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#89",
+            "steamid": "90216460360963094",
+            "addr": "150.138.84.81:3089",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#72",
+            "steamid": "90216460360995862",
+            "addr": "150.138.84.81:3072",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#92",
+            "steamid": "90216460360998934",
+            "addr": "150.138.84.81:3092",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#93",
+            "steamid": "90216460361006102",
+            "addr": "150.138.84.81:3093",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#94",
+            "steamid": "90216460361024534",
+            "addr": "150.138.84.81:3094",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#95",
+            "steamid": "90216460361039894",
+            "addr": "150.138.84.81:3095",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#96",
+            "steamid": "90216460361049110",
+            "addr": "150.138.84.81:3096",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#97",
+            "steamid": "90216460361093142",
+            "addr": "150.138.84.81:3097",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#99",
+            "steamid": "90216460361098262",
+            "addr": "150.138.84.81:3099",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#100",
+            "steamid": "90216460361112598",
+            "addr": "150.138.84.81:3100",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#91",
+            "steamid": "90216460361135126",
+            "addr": "150.138.84.81:3091",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#71",
+            "steamid": "90216460361349142",
+            "addr": "150.138.84.81:3071",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#98",
+            "steamid": "90216460361360406",
+            "addr": "150.138.84.81:3098",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "HTの一念仙行#11",
+            "steamid": "90216477794085910",
+            "addr": "150.138.84.81:3011",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "玄月的多特1服[8特60秒][重启:0|路程:0%][计时:26m:4",
+            "steamid": "90216175750703124",
+            "addr": "202.189.9.141:21200",
+            "tags": "coop,empty,hidden,secure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X24纯净RPG★正常服",
+            "steamid": "90213923846300697",
+            "addr": "150.138.77.10:20735",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X51纯净RPG★正常服",
+            "steamid": "90213923846639641",
+            "addr": "150.138.77.10:20762",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X7纯净RPG★正常服",
+            "steamid": "90215267552062489",
+            "addr": "150.138.77.10:20718",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X58纯净RPG★正常服",
+            "steamid": "90213923846776857",
+            "addr": "150.138.77.10:20769",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X83纯净RPG★正常服",
+            "steamid": "90215259431025689",
+            "addr": "150.138.77.10:20794",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X75纯净RPG★正常服",
+            "steamid": "90213923847103513",
+            "addr": "150.138.77.10:20786",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG",
+            "steamid": "90216451229119506",
+            "addr": "43.249.194.250:27503",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X55纯净RPG★正常服",
+            "steamid": "90213923846878233",
+            "addr": "150.138.77.10:20766",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X30纯净RPG★正常服",
+            "steamid": "90216471895577625",
+            "addr": "150.138.77.10:20741",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X36纯净RPG★正常服",
+            "steamid": "90213923846466585",
+            "addr": "150.138.77.10:20747",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X45纯净RPG★正常服",
+            "steamid": "90213923846582297",
+            "addr": "150.138.77.10:20756",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X10纯净RPG★正常服",
+            "steamid": "90215265793512473",
+            "addr": "150.138.77.10:20721",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X70纯净RPG★正常服",
+            "steamid": "90213923846924313",
+            "addr": "150.138.77.10:20781",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X27纯净RPG★正常服",
+            "steamid": "90216410665541657",
+            "addr": "150.138.77.10:20738",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X60纯净RPG★正常服",
+            "steamid": "90214182438725657",
+            "addr": "150.138.77.10:20771",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG新手服#5",
+            "steamid": "90215381440995346",
+            "addr": "43.249.194.250:27032",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X80纯净RPG★正常服",
+            "steamid": "90213923847064601",
+            "addr": "150.138.77.10:20791",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X41纯净RPG★正常服",
+            "steamid": "90213923846432793",
+            "addr": "150.138.77.10:20752",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X61纯净RPG★正常服",
+            "steamid": "90213923847131161",
+            "addr": "150.138.77.10:20772",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]纯净RPG★第三方服",
+            "steamid": "90215255792978969",
+            "addr": "150.138.77.10:20750",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X16纯净RPG★正常服",
+            "steamid": "90213923846144025",
+            "addr": "150.138.77.10:20727",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X17纯净RPG★正常服",
+            "steamid": "90213923846157337",
+            "addr": "150.138.77.10:20728",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG#02",
+            "steamid": "90216436225153042",
+            "addr": "43.249.194.250:27021",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」天域RPG#04",
+            "steamid": "90216469294659602",
+            "addr": "43.249.194.250:27023",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X44纯净RPG★正常服",
+            "steamid": "90215802540125209",
+            "addr": "150.138.77.10:20755",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X68纯净RPG★正常服",
+            "steamid": "90215268471582745",
+            "addr": "150.138.77.10:20779",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X49纯净RPG★正常服",
+            "steamid": "90215255793061913",
+            "addr": "150.138.77.10:20760",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG#08",
+            "steamid": "90216451231065106",
+            "addr": "43.249.194.250:27027",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X76纯净RPG★正常服",
+            "steamid": "90214646598046745",
+            "addr": "150.138.77.10:20787",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X56纯净RPG★正常服",
+            "steamid": "90213923846729753",
+            "addr": "150.138.77.10:20767",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X12纯净RPG★正常服",
+            "steamid": "90215252578935833",
+            "addr": "150.138.77.10:20723",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X66纯净RPG★正常服",
+            "steamid": "90215256735175705",
+            "addr": "150.138.77.10:20777",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X21纯净RPG★正常服",
+            "steamid": "90216090565453849",
+            "addr": "150.138.77.10:20732",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X73纯净RPG★正常服",
+            "steamid": "90213923846856729",
+            "addr": "150.138.77.10:20784",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X57纯净RPG★正常服",
+            "steamid": "90215938568285209",
+            "addr": "150.138.77.10:20768",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X81纯净RPG★正常服",
+            "steamid": "90213923847120921",
+            "addr": "150.138.77.10:20792",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]纯净RPG★抢先服",
+            "steamid": "90216269787542553",
+            "addr": "150.138.77.10:20748",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X26纯净RPG★正常服",
+            "steamid": "90214860619055129",
+            "addr": "150.138.77.10:20737",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X32纯净RPG★正常服",
+            "steamid": "90213923846401049",
+            "addr": "150.138.77.10:20743",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X69纯净RPG★正常服",
+            "steamid": "90213923846927385",
+            "addr": "150.138.77.10:20780",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X78纯净RPG★正常服",
+            "steamid": "90216269787654169",
+            "addr": "150.138.77.10:20789",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X19纯净RPG★正常服",
+            "steamid": "90213923846238233",
+            "addr": "150.138.77.10:20730",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X47纯净RPG★正常服",
+            "steamid": "90213923846495257",
+            "addr": "150.138.77.10:20758",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X43纯净RPG★正常服",
+            "steamid": "90213923846551577",
+            "addr": "150.138.77.10:20754",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X33纯净RPG★正常服",
+            "steamid": "90216067595772953",
+            "addr": "150.138.77.10:20744",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X53纯净RPG★正常服",
+            "steamid": "90215257312694297",
+            "addr": "150.138.77.10:20764",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG",
+            "steamid": "90215552719054866",
+            "addr": "43.249.194.250:27504",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X14纯净RPG★正常服",
+            "steamid": "90214307419536409",
+            "addr": "150.138.77.10:20725",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X74纯净RPG★正常服",
+            "steamid": "90213923846989849",
+            "addr": "150.138.77.10:20785",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X15纯净RPG★正常服",
+            "steamid": "90213923846127641",
+            "addr": "150.138.77.10:20726",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X18纯净RPG★正常服",
+            "steamid": "90215443045350425",
+            "addr": "150.138.77.10:20729",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG#03",
+            "steamid": "90216451230885906",
+            "addr": "43.249.194.250:27022",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X28纯净RPG★正常服",
+            "steamid": "90215216354323481",
+            "addr": "150.138.77.10:20739",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X79纯净RPG★正常服",
+            "steamid": "90213923847090201",
+            "addr": "150.138.77.10:20790",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X22纯净RPG★正常服",
+            "steamid": "90216432593076249",
+            "addr": "150.138.77.10:20733",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X46纯净RPG★正常服",
+            "steamid": "90215828148686873",
+            "addr": "150.138.77.10:20757",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X23纯净RPG★正常服",
+            "steamid": "90213923846287385",
+            "addr": "150.138.77.10:20734",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X54纯净RPG★正常服",
+            "steamid": "90215256736412697",
+            "addr": "150.138.77.10:20765",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X11纯净RPG★正常服",
+            "steamid": "90215260868365337",
+            "addr": "150.138.77.10:20722",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X52纯净RPG★正常服",
+            "steamid": "90213923846566937",
+            "addr": "150.138.77.10:20763",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X9纯净RPG★正常服",
+            "steamid": "90215261721153561",
+            "addr": "150.138.77.10:20720",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X35纯净RPG★正常服",
+            "steamid": "90213923846454297",
+            "addr": "150.138.77.10:20746",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X29纯净RPG★正常服",
+            "steamid": "90213923846362137",
+            "addr": "150.138.77.10:20740",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X59纯净RPG★正常服",
+            "steamid": "90213923846770713",
+            "addr": "150.138.77.10:20770",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X20纯净RPG★正常服",
+            "steamid": "90213923846248473",
+            "addr": "150.138.77.10:20731",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X25纯净RPG★正常服",
+            "steamid": "90213923846310937",
+            "addr": "150.138.77.10:20736",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]纯净RPG★第三方服",
+            "steamid": "90216176313869337",
+            "addr": "150.138.77.10:20751",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X42纯净RPG★正常服",
+            "steamid": "90213923846541337",
+            "addr": "150.138.77.10:20753",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG",
+            "steamid": "90216469297287186",
+            "addr": "43.249.194.250:27505",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X5纯净RPG★正常服",
+            "steamid": "90214469114236953",
+            "addr": "150.138.77.10:20716",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X50纯净RPG★正常服",
+            "steamid": "90213923846627353",
+            "addr": "150.138.77.10:20761",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X82纯净RPG★正常服",
+            "steamid": "90213923847128089",
+            "addr": "150.138.77.10:20793",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X71纯净RPG★正常服",
+            "steamid": "90213923846834201",
+            "addr": "150.138.77.10:20782",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X13纯净RPG★正常服",
+            "steamid": "90214814647296025",
+            "addr": "150.138.77.10:20724",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X65纯净RPG★正常服",
+            "steamid": "90215261246797849",
+            "addr": "150.138.77.10:20776",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X72纯净RPG★正常服",
+            "steamid": "90213923847086105",
+            "addr": "150.138.77.10:20783",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG#01",
+            "steamid": "90216141354633234",
+            "addr": "43.249.194.250:27020",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X31纯净RPG★正常服",
+            "steamid": "90213923846386713",
+            "addr": "150.138.77.10:20742",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG#07",
+            "steamid": "90216436225113106",
+            "addr": "43.249.194.250:27026",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X48纯净RPG★正常服",
+            "steamid": "90213923846608921",
+            "addr": "150.138.77.10:20759",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X77纯净RPG★正常服",
+            "steamid": "90213923846895641",
+            "addr": "150.138.77.10:20788",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X63纯净RPG★正常服",
+            "steamid": "90213923846828057",
+            "addr": "150.138.77.10:20774",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X64纯净RPG★正常服",
+            "steamid": "90215034250065945",
+            "addr": "150.138.77.10:20775",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X8纯净RPG★正常服",
+            "steamid": "90213923846028313",
+            "addr": "150.138.77.10:20719",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X34纯净RPG★正常服",
+            "steamid": "90214814645960729",
+            "addr": "150.138.77.10:20745",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG新手服#2",
+            "steamid": "90216141354906642",
+            "addr": "43.249.194.250:27029",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]纯净RPG★第三方服",
+            "steamid": "90216154436662297",
+            "addr": "150.138.77.10:20749",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X62纯净RPG★正常服",
+            "steamid": "90213923846814745",
+            "addr": "150.138.77.10:20773",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "[AC]X67纯净RPG★正常服",
+            "steamid": "90215256737906713",
+            "addr": "150.138.77.10:20778",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG高手服#3",
+            "steamid": "90215269785541650",
+            "addr": "43.249.194.250:27033",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG高手服#4",
+            "steamid": "90215269785542674",
+            "addr": "43.249.194.250:27034",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG高手服#2",
+            "steamid": "90215269785553938",
+            "addr": "43.249.194.250:27036",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG渡劫服#1",
+            "steamid": "90215269785552914",
+            "addr": "43.249.194.250:27037",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG高手服#1",
+            "steamid": "90215269785559058",
+            "addr": "43.249.194.250:27035",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X4纯净RPG★正常服",
+            "steamid": "90215443045223449",
+            "addr": "150.138.77.10:20715",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG新手服#1",
+            "steamid": "90216469294987282",
+            "addr": "43.249.194.250:27028",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG新手服#3",
+            "steamid": "90215992183226386",
+            "addr": "43.249.194.250:27030",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」天域RPG#06",
+            "steamid": "90216451230813202",
+            "addr": "43.249.194.250:27025",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "「天域国度」-炼狱RPG新手服#4",
+            "steamid": "90216414085732370",
+            "addr": "43.249.194.250:27031",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "[AC]X6纯净RPG★正常服",
+            "steamid": "90215410479755289",
+            "addr": "150.138.77.10:20717",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "「天域国度」天域RPG#05",
+            "steamid": "90216436225493010",
+            "addr": "43.249.194.250:27024",
+            "tags": "",
+            "os": "l"
+        },
+        {
+            "name": "﻿求_生_之_路RPG破解版",
+            "steamid": "90215258289068039",
+            "addr": "82.157.247.242:27015",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "14#-众神传说",
+            "steamid": "90213904338368543",
+            "addr": "117.72.73.87:27014",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "11#-众神传说",
+            "steamid": "90213913542681631",
+            "addr": "117.72.73.87:27011",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "13#-众神传说",
+            "steamid": "90213171416512543",
+            "addr": "117.72.73.87:27013",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "17#-众神传说",
+            "steamid": "90213642903223327",
+            "addr": "117.72.73.87:27017",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "16#-众神传说",
+            "steamid": "90213791759385631",
+            "addr": "117.72.73.87:27016",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "20#-众神传说",
+            "steamid": "90214566788139039",
+            "addr": "117.72.73.87:27020",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "19#-众神传说",
+            "steamid": "90213783950736415",
+            "addr": "117.72.73.87:27019",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "18#-众神传说",
+            "steamid": "90213689085254687",
+            "addr": "117.72.73.87:27018",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "15#-众神传说",
+            "steamid": "90215667506656287",
+            "addr": "117.72.73.87:27015",
+            "tags": "coop,empty,insecure",
+            "os": "l"
+        },
+        {
+            "name": "12#-众神传说",
+            "steamid": "90215594881107999",
+            "addr": "117.72.73.87:27012",
+            "tags": "coop,insecure",
+            "os": "l"
+        },
+        {
+            "name": "1@ 星缘天空RPG[菜鸟区域][☆☆★]",
+            "steamid": "90215268237892632",
+            "addr": "103.40.13.57:28051",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】黎明区-炽焰战场",
+            "steamid": "90209598865216534",
+            "addr": "103.40.13.23:31152",
+            "tags": "realism,empty,hidden,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】黎明区-自由空间",
+            "steamid": "90215810605997078",
+            "addr": "103.40.13.23:31162",
+            "tags": "coop,empty,hidden,insecure",
+            "os": "w"
+        },
+        {
+            "name": "3C無人永生RPG战役",
+            "steamid": "90216330136795142",
+            "addr": "103.40.13.7:27031",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-13",
+            "steamid": "90215268235451416",
+            "addr": "103.40.13.57:29063",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-27",
+            "steamid": "90215871669442584",
+            "addr": "103.40.13.57:29077",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "8#無人永生RPG战役",
+            "steamid": "90216441107823622",
+            "addr": "103.40.13.7:28040",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "F1 無人永生RPG副本战役",
+            "steamid": "90215269364451332",
+            "addr": "103.40.13.5:28099",
+            "tags": "coop,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空|纯净KZ跳跃|正式服|☆☆★|",
+            "steamid": "90215269257790488",
+            "addr": "103.40.13.57:29910",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "7C無人永生RPG战役",
+            "steamid": "90216065521705988",
+            "addr": "103.40.13.5:28045",
+            "tags": "coop,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-1",
+            "steamid": "90216246340443160",
+            "addr": "103.40.13.57:29051",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-8",
+            "steamid": "90215268239246360",
+            "addr": "103.40.13.57:29058",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "4C無人永生RPG战役",
+            "steamid": "90215459793957892",
+            "addr": "103.40.13.5:28042",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-3",
+            "steamid": "90216154254630936",
+            "addr": "103.40.13.57:29053",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空 [人类 VS BOT] 死亡对抗",
+            "steamid": "90215268237342744",
+            "addr": "103.40.13.57:27015",
+            "tags": "versus,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-6",
+            "steamid": "90215268238755864",
+            "addr": "103.40.13.57:29056",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-11",
+            "steamid": "90215268234972184",
+            "addr": "103.40.13.57:29061",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "4A無人永生RPG战役",
+            "steamid": "90216441108395014",
+            "addr": "103.40.13.7:28036",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "15#帝王RPG战役服务器",
+            "steamid": "90216395685344261",
+            "addr": "222.187.254.87:30024",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-21",
+            "steamid": "90215268236914712",
+            "addr": "103.40.13.57:29071",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】烈焰区-新图战役",
+            "steamid": "90216200138938390",
+            "addr": "103.40.13.23:31112",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "1#無人永生RPG战役",
+            "steamid": "90216371513416710",
+            "addr": "103.40.13.7:27025",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-16",
+            "steamid": "90215268235613208",
+            "addr": "103.40.13.57:29066",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-20",
+            "steamid": "90215268236348440",
+            "addr": "103.40.13.57:29070",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-12",
+            "steamid": "90215268235107352",
+            "addr": "103.40.13.57:29062",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-10",
+            "steamid": "90215268239264792",
+            "addr": "103.40.13.57:29060",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】烈焰区-常规2线",
+            "steamid": "90215793694551062",
+            "addr": "103.40.13.23:31132",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "24#帝王RPG战役服务器",
+            "steamid": "90216395685734405",
+            "addr": "222.187.254.87:30033",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "1A無人永生RPG战役",
+            "steamid": "90216458583709700",
+            "addr": "103.40.13.5:27035",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-25",
+            "steamid": "90215449821873176",
+            "addr": "103.40.13.57:29075",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "28#帝王RPG战役服务器",
+            "steamid": "90216395685626885",
+            "addr": "222.187.254.87:30037",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "3B無人永生RPG战役",
+            "steamid": "90216135596667910",
+            "addr": "103.40.13.7:28030",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-24",
+            "steamid": "90215268236939288",
+            "addr": "103.40.13.57:29074",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-5",
+            "steamid": "90215268237295640",
+            "addr": "103.40.13.57:29055",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "2#無人永生RPG战役",
+            "steamid": "90216347357644806",
+            "addr": "103.40.13.7:27026",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "5#無人永生RPG战役",
+            "steamid": "90215974834031622",
+            "addr": "103.40.13.7:28047",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-7",
+            "steamid": "90215268238758936",
+            "addr": "103.40.13.57:29057",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-19",
+            "steamid": "90215268236048408",
+            "addr": "103.40.13.57:29069",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "7D無人永生RPG战役",
+            "steamid": "90216383523305476",
+            "addr": "103.40.13.5:28046",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-22",
+            "steamid": "90215268236896280",
+            "addr": "103.40.13.57:29072",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-23",
+            "steamid": "90215268236755992",
+            "addr": "103.40.13.57:29073",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】黎明区-安全区",
+            "steamid": "90215810602251286",
+            "addr": "103.40.13.23:31172",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-2",
+            "steamid": "90215900532815896",
+            "addr": "103.40.13.57:29052",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "3X無人永生RPG战役",
+            "steamid": "90216395965970438",
+            "addr": "103.40.13.7:28050",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "5X 星缘天空[RPG战役][5级入侵]",
+            "steamid": "90215268236231704",
+            "addr": "103.40.13.57:27055",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "1B無人永生RPG战役",
+            "steamid": "90216347354512388",
+            "addr": "103.40.13.5:27036",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-18",
+            "steamid": "90215268236034072",
+            "addr": "103.40.13.57:29068",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "7#無人永生RPG战役",
+            "steamid": "90215269314406406",
+            "addr": "103.40.13.7:28039",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "6#無人永生RPG战役",
+            "steamid": "90216417718291462",
+            "addr": "103.40.13.7:28038",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-15",
+            "steamid": "90215268235736088",
+            "addr": "103.40.13.57:29065",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-26",
+            "steamid": "90215449823297560",
+            "addr": "103.40.13.57:29076",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】烈焰区-常规1线",
+            "steamid": "90215793692270614",
+            "addr": "103.40.13.23:31122",
+            "tags": "coop,secure",
+            "os": "w"
+        },
+        {
+            "name": "31#帝王RPG战役服务器",
+            "steamid": "90216395685760005",
+            "addr": "222.187.254.87:30040",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "4D無人永生RPG战役",
+            "steamid": "90216311899481092",
+            "addr": "103.40.13.5:28023",
+            "tags": "coop,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-17",
+            "steamid": "90215268235617304",
+            "addr": "103.40.13.57:29067",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "4#無人永生RPG战役",
+            "steamid": "90215472107344902",
+            "addr": "103.40.13.7:27034",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-14",
+            "steamid": "90215268235303960",
+            "addr": "103.40.13.57:29064",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "4G無人永生RPG战役",
+            "steamid": "90215269314290694",
+            "addr": "103.40.13.7:28046",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】洛克区-新图战役",
+            "steamid": "90215896215882774",
+            "addr": "103.40.13.23:31182",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "3#無人永生RPG战役",
+            "steamid": "90216332175846404",
+            "addr": "103.40.13.5:27028",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "【军魂】洛克区-常规线",
+            "steamid": "90215810605472790",
+            "addr": "103.40.13.23:31192",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "18#帝王RPG战役服务器",
+            "steamid": "90216395685343237",
+            "addr": "222.187.254.87:30027",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-4",
+            "steamid": "90215268237187096",
+            "addr": "103.40.13.57:29054",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "7A無人永生RPG战役",
+            "steamid": "90215269363867652",
+            "addr": "103.40.13.5:28043",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "3A無人永生RPG战役",
+            "steamid": "90216330136482822",
+            "addr": "103.40.13.7:27029",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "14#帝王RPG战役服务器",
+            "steamid": "90216395685312517",
+            "addr": "222.187.254.87:30023",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "星缘天空RPG战役 #-9",
+            "steamid": "90215268239255576",
+            "addr": "103.40.13.57:29059",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "4F無人永生RPG战役",
+            "steamid": "90216457706180614",
+            "addr": "103.40.13.7:28045",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "3Y無人永生RPG战役",
+            "steamid": "90216309153514502",
+            "addr": "103.40.13.7:28051",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "4E無人永生RPG战役",
+            "steamid": "90216173646753796",
+            "addr": "103.40.13.5:28024",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "3#帝王RPG战役服务器",
+            "steamid": "90216395685165061",
+            "addr": "222.187.254.87:30012",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "4#帝王RPG战役服务器",
+            "steamid": "90216395685173253",
+            "addr": "222.187.254.87:30013",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "2#帝王RPG战役服务器",
+            "steamid": "90216395685178373",
+            "addr": "222.187.254.87:30011",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "5#帝王RPG战役服务器",
+            "steamid": "90216395685201925",
+            "addr": "222.187.254.87:30014",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "6#帝王RPG战役服务器",
+            "steamid": "90216395685206021",
+            "addr": "222.187.254.87:30015",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "7#帝王RPG战役服务器",
+            "steamid": "90216395685214213",
+            "addr": "222.187.254.87:30016",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "2A無人永生RPG战役",
+            "steamid": "90216441106269190",
+            "addr": "103.40.13.7:27027",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "10#帝王RPG战役服务器",
+            "steamid": "90216395685254149",
+            "addr": "222.187.254.87:30019",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "11#帝王RPG战役服务器",
+            "steamid": "90216395685276677",
+            "addr": "222.187.254.87:30020",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "12#帝王RPG战役服务器",
+            "steamid": "90216395685278725",
+            "addr": "222.187.254.87:30021",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "9#帝王RPG战役服务器",
+            "steamid": "90216395685281797",
+            "addr": "222.187.254.87:30018",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "16#帝王RPG战役服务器",
+            "steamid": "90216395685326853",
+            "addr": "222.187.254.87:30025",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "17#帝王RPG战役服务器",
+            "steamid": "90216395685331973",
+            "addr": "222.187.254.87:30026",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "20#帝王RPG战役服务器",
+            "steamid": "90216395685397509",
+            "addr": "222.187.254.87:30029",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "22#帝王RPG战役服务器",
+            "steamid": "90216395685400581",
+            "addr": "222.187.254.87:30031",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "25#帝王RPG战役服务器",
+            "steamid": "90216395685441541",
+            "addr": "222.187.254.87:30034",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "23#帝王RPG战役服务器",
+            "steamid": "90216395685457925",
+            "addr": "222.187.254.87:30032",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "26#帝王RPG战役服务器",
+            "steamid": "90216395685466117",
+            "addr": "222.187.254.87:30035",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "29#帝王RPG战役服务器",
+            "steamid": "90216395685491717",
+            "addr": "222.187.254.87:30038",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "27#帝王RPG战役服务器",
+            "steamid": "90216395685504005",
+            "addr": "222.187.254.87:30036",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "19#帝王RPG战役服务器",
+            "steamid": "90216395685505029",
+            "addr": "222.187.254.87:30028",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "8#帝王RPG战役服务器",
+            "steamid": "90216395685513221",
+            "addr": "222.187.254.87:30017",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "21#帝王RPG战役服务器",
+            "steamid": "90216395685520389",
+            "addr": "222.187.254.87:30030",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "32#帝王RPG战役服务器",
+            "steamid": "90216395685548037",
+            "addr": "222.187.254.87:30041",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "13#帝王RPG战役服务器",
+            "steamid": "90216395685553157",
+            "addr": "222.187.254.87:30022",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "30#帝王RPG战役服务器",
+            "steamid": "90216395685588997",
+            "addr": "222.187.254.87:30039",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "1#帝王RPG战役服务器",
+            "steamid": "90216395685811205",
+            "addr": "222.187.254.87:30010",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "7B無人永生RPG战役",
+            "steamid": "90216458586761220",
+            "addr": "103.40.13.5:28022",
+            "tags": "coop,empty,secure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216372209904645",
+            "addr": "43.226.79.20:42007",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215841173857285",
+            "addr": "43.226.79.20:42029",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90214333258201093",
+            "addr": "43.226.79.20:42025",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510875653",
+            "addr": "43.226.79.20:42109",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510886917",
+            "addr": "43.226.79.20:42031",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094511213573",
+            "addr": "43.226.79.20:42104",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510935045",
+            "addr": "43.226.79.20:42105",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510907397",
+            "addr": "43.226.79.20:42035",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094511011845",
+            "addr": "43.226.79.20:42015",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90214774499055621",
+            "addr": "43.226.79.20:42026",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215256563872773",
+            "addr": "43.226.79.20:42101",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094511001605",
+            "addr": "43.226.79.20:42108",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90213924307740677",
+            "addr": "43.226.79.20:42027",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510885893",
+            "addr": "43.226.79.20:42032",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215454087633925",
+            "addr": "43.226.79.20:42028",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90214701796112389",
+            "addr": "43.226.79.20:42022",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90214895781044229",
+            "addr": "43.226.79.20:42024",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744270026757",
+            "addr": "43.226.79.20:42011",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744270198789",
+            "addr": "43.226.79.20:42110",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510992389",
+            "addr": "43.226.79.20:42106",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744269983749",
+            "addr": "43.226.79.20:42103",
+            "tags": "realism,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510901253",
+            "addr": "43.226.79.20:42033",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744269967365",
+            "addr": "43.226.79.20:42014",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744270090245",
+            "addr": "43.226.79.20:42030",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215092225186821",
+            "addr": "43.226.79.20:42006",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744270230533",
+            "addr": "43.226.79.20:42034",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094511072261",
+            "addr": "43.226.79.20:30001",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90214333258167301",
+            "addr": "43.226.79.20:42021",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215801372109829",
+            "addr": "43.226.79.20:42002",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90212347214050309",
+            "addr": "43.226.79.20:42023",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90214582251445253",
+            "addr": "43.226.79.20:42003",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510734341",
+            "addr": "43.226.79.20:42005",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90215744269892613",
+            "addr": "43.226.79.20:42004",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510731269",
+            "addr": "43.226.79.20:42001",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510745605",
+            "addr": "43.226.79.20:42008",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510765061",
+            "addr": "43.226.79.20:42009",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510772229",
+            "addr": "43.226.79.20:42010",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510789637",
+            "addr": "43.226.79.20:42012",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510795781",
+            "addr": "43.226.79.20:42013",
+            "tags": "coop,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510819333",
+            "addr": "43.226.79.20:42102",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "﻿[趣味]弑神巅峰",
+            "steamid": "90216094510866437",
+            "addr": "43.226.79.20:42107",
+            "tags": "realism,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "阿起世界 RPG 新手服務器",
+            "steamid": "90215957187223553",
+            "addr": "36.232.15.8:27016",
+            "tags": "coop,empty,increased_maxplayers,rpg,secure",
+            "os": "w"
+        },
+        {
+            "name": "阿起世界 RPG 戰役",
+            "steamid": "90216026286968833",
+            "addr": "36.232.15.8:27015",
+            "tags": "coop,rpg,secure",
+            "os": "w"
+        },
+        {
+            "name": "❶❺[腐尸之地]♂RPG",
+            "steamid": "90216072638959619",
+            "addr": "115.231.218.160:27115",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❷⓪[腐尸之地]♂RPG",
+            "steamid": "90214148198965251",
+            "addr": "115.231.218.160:27120",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❹[腐尸之地]♂RPG",
+            "steamid": "90216432526682115",
+            "addr": "115.231.218.160:27114",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❽[腐尸之地]♂RPG",
+            "steamid": "90215257002917891",
+            "addr": "115.231.218.160:27108",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❶[腐尸之地]♂RPG",
+            "steamid": "90215256610278403",
+            "addr": "115.231.218.160:27111",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶[腐尸之地]♂RPG",
+            "steamid": "90213934907626499",
+            "addr": "115.231.218.160:27101",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❷[腐尸之地]♂RPG",
+            "steamid": "90215256793901059",
+            "addr": "115.231.218.160:27112",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❻[腐尸之地]♂RPG",
+            "steamid": "90215256607598595",
+            "addr": "115.231.218.160:27106",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❷❶[腐尸之地]♂RPG",
+            "steamid": "90213685476616195",
+            "addr": "115.231.218.160:27121",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❹[腐尸之地]♂RPG",
+            "steamid": "90213799961374723",
+            "addr": "115.231.218.160:27104",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❸[腐尸之地]♂RPG",
+            "steamid": "90213927325713411",
+            "addr": "115.231.218.160:27103",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❾[腐尸之地]♂RPG",
+            "steamid": "90215263151339523",
+            "addr": "115.231.218.160:27119",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❽[腐尸之地]♂RPG",
+            "steamid": "90213916938271747",
+            "addr": "115.231.218.160:27118",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❻[腐尸之地]♂RPG",
+            "steamid": "90213925188915203",
+            "addr": "115.231.218.160:27116",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❷❷[腐尸之地]♂RPG",
+            "steamid": "90216228946569219",
+            "addr": "115.231.218.160:27122",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❺[腐尸之地]♂RPG",
+            "steamid": "90215255734269955",
+            "addr": "115.231.218.160:27105",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❷[腐尸之地]♂RPG",
+            "steamid": "90215791085666307",
+            "addr": "115.231.218.160:27102",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❸[腐尸之地]♂RPG",
+            "steamid": "90216052456550403",
+            "addr": "115.231.218.160:27113",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❼[腐尸之地]♂RPG",
+            "steamid": "90216089413336067",
+            "addr": "115.231.218.160:27107",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❾[腐尸之地]♂RPG",
+            "steamid": "90215255964338179",
+            "addr": "115.231.218.160:27109",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❿[腐尸之地]♂RPG",
+            "steamid": "90216172822212611",
+            "addr": "115.231.218.160:27110",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "❶❼[腐尸之地]♂RPG",
+            "steamid": "90216374718088195",
+            "addr": "115.231.218.160:27117",
+            "tags": "coop,empty,insecure",
+            "os": "w"
+        },
+        {
+            "name": "｢제논｣|#3|협동|죽음의 센터 4/4",
+            "steamid": "90215259827715086",
+            "addr": "218.51.171.16:27019",
+            "tags": "coop,rpg,xenon,제논,secure",
+            "os": "w"
+        },
+        {
+            "name": "｢제논｣|#1|협동|죽음의 센터 2/4",
+            "steamid": "90215259829456910",
+            "addr": "218.51.171.16:27015",
+            "tags": "coop,rpg,xenon,제논,secure",
+            "os": "w"
+        },
+        {
+            "name": "｢제논｣|#2|협동|최후 방어선 1/2",
+            "steamid": "90216150340135950",
+            "addr": "218.51.171.16:27017",
+            "tags": "coop,rpg,xenon,제논,secure",
+            "os": "w"
+        }
+    ]
+}
