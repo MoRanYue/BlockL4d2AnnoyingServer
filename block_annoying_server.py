@@ -1,5 +1,6 @@
 import httpx
 import os
+from pathlib import Path
 import re
 import time
 try:
@@ -9,6 +10,9 @@ except:
 
 API_KEY = os.getenv("STEAM_API_KEY")
 assert API_KEY
+
+DETAILS_FILE = Path("blocked_servers_details.json")
+BLACKLIST_FILE = Path("ipblacklist.txt")
 
 if __name__ == '__main__':
     print("Sending request...")
@@ -37,17 +41,24 @@ if __name__ == '__main__':
                 "os": i["os"]
             })
     
-    with open("blocked_servers_details.json", "w", encoding="utf-8") as f:
+    with DETAILS_FILE.open("w", encoding="utf-8") as f:
         json.dump({
             "timestamp": int(time.time()),
             "game": "Left 4 Dead 2",
             "tag": "RPG",
             "servers": blocked_servers
-        }, f, ensure_ascii=False, indent=4)
+        }, f, ensure_ascii=False, indent=2)
     print("Blocked servers details created")
 
     added_ips = []
-    with open("ipblacklist.txt", "w", encoding="utf-8") as f:
+    if BLACKLIST_FILE.exists():
+        print("A blacklist exists, importing...")
+        with BLACKLIST_FILE.open("r", encoding="utf-8") as f:
+            for i in f.readlines():
+                ip = i.strip()
+                if ip:
+                    added_ips.append(ip)
+    with BLACKLIST_FILE.open("a", encoding="utf-8") as f:
         for i in blocked_servers:
             ip = i["addr"].split(":")[0]
             if ip in added_ips:
