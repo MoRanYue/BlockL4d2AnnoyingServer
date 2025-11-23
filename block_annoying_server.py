@@ -31,7 +31,7 @@ if __name__ == '__main__':
     blocked_servers = []
     for i in result["response"]["servers"]:
         if (i.get("gametype") and re.search("rpg", i["gametype"], re.RegexFlag.I)) or \
-        ("name" in i and re.search("[^非]rpg|戮|弑|巅|凡|玄|天下|神域|完美世界|一念仙行录|窥仙之路|风花雪月|暗黑之魂|午夜狂欢|無人永生|神之右手|军魂|星缘|破晓|腐尸之地|猎人|通天塔|无法逃脱|穷途末路|众神传说|上帝|HTの|破晓|星缘天空|午夜狂欢|鹅服|阿起世界", i["name"], re.RegexFlag.I)) or \
+        ("name" in i and re.search("[^非]rpg|戮|弑|巅|凡|玄|天下|神域|完美世界|一念仙行录|窥仙之路|风花雪月|暗黑之魂|午夜狂欢|無人永生|神之右手|军魂|星缘|破晓|腐尸之地|猎人|通天塔|无法逃脱|穷途末路|众神传说|上帝|HTの|破晓|星缘天空|午夜狂欢|鹅服|阿起世界|刷屏", i["name"], re.RegexFlag.I)) or \
         i["steamid"] in ["90201354335194137", "90201354334376985", "90216653955784729", "90216653955877913"]:
             blocked_servers.append({
                 "name": i["name"],
@@ -45,7 +45,6 @@ if __name__ == '__main__':
         json.dump({
             "timestamp": int(time.time()),
             "game": "Left 4 Dead 2",
-            "tag": "RPG",
             "servers": blocked_servers
         }, f, ensure_ascii=False, indent=2)
     print("Blocked servers details created")
